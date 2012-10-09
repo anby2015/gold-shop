@@ -1,0 +1,297 @@
+BODY {
+	FONT-SIZE: 12px; COLOR: #dfdfdf; FONT-FAMILY: \\\\\\\\\\\\\\\"ËÎÌו\\\\\\\\\\\\\\\"
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #dfdfdf; FONT-FAMILY: \\\\\\\\\\\\\\\"ËÎÌו\\\\\\\\\\\\\\\"
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #eeeeee; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #fddd00; TEXT-DECORATION: blink
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #eeeeee; TEXT-DECORATION: none
+}
+.user1 A:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.user1 A:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.user1 A:hover {
+	FONT-SIZE: 12px; COLOR: #ffff00
+}
+.top A:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:hover {
+	FONT-SIZE: 12px; COLOR: #ff8a00
+}
+.user2 A:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.user2 A:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.user2 A:hover {
+	FONT-SIZE: 12px; COLOR: #ff8a00
+}
+.button {
+	BORDER-RIGHT: #a1a1a1 1px double; BORDER-TOP: #a1a1a1 1px double; FONT-SIZE: 12px; BORDER-LEFT: #a1a1a1 1px double; WIDTH: 60px; COLOR: #ffffff; LINE-HEIGHT: 18px; BORDER-BOTTOM: #a1a1a1 1px double; BACKGROUND-COLOR: #680701
+}
+.text {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; MARGIN-TOP: 4px; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; COLOR: #dfdfdf; LINE-HEIGHT: 15px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #b93c36
+}
+.useritem {
+	MARGIN-TOP: 3px; VERTICAL-ALIGN: bottom; LINE-HEIGHT: 20px
+}
+.ContentLink A:link {
+	
+}
+.ContentLink A:hover {
+	
+}
+.ContentLink A:visited {
+	
+}
+.TitleLink A:link {
+	
+}
+.TitleLink A:hover {
+	
+}
+.TitleLink A:visited {
+	
+}
+TABLE.HomeAreaA THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/a_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.HomeAreaA TBODY TD {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 6px 2px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/ab.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 25px; LINE-HEIGHT: 20px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.HomeAreaA01 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaA02 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaA05 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaA06 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaA TFOOT TD {
+	TEXT-INDENT: 140px; LINE-HEIGHT: 20px
+}
+TABLE.main {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; COLOR: #ffffff; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.main THEAD TD {
+	
+}
+TABLE.main TBODY TD {
+	MARGIN-TOP: 20px
+}
+TABLE.banner {
+	TEXT-ALIGN: center
+}
+TABLE.left {
+	
+}
+TABLE.left THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/a_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.left TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-TOP: 6px
+}
+TABLE.mainleft {
+	FONT-SIZE: 12px; COLOR: #dfdfdf; LINE-HEIGHT: 18px
+}
+TABLE.MainLeft THEAD TD {
+	
+}
+TABLE.MainLeft TBODY TD {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: 6px 9px; PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/artlist_body.gif); PADDING-TOP: 6px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.ArtIntro {
+	
+}
+TABLE.Artintro THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/artlist_head.gif); COLOR: #ffffff; TEXT-INDENT: 35px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: left
+}
+TABLE.ArtIntro TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; COLOR: #dfdfdf; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.ArtIntro TFOOT TD {
+	
+}
+TABLE.ArtContent THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/head_line.gif); COLOR: #ffffff; LINE-HEIGHT: 30px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.ArtContent TBODY {
+	FONT-SIZE: 12px; COLOR: #777777; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.userdesign THEAD TD {
+	
+}
+TABLE.userdesign TD {
+	COLOR: #dfdfdf; LINE-HEIGHT: 20px
+}
+DIV.pathway {
+	COLOR: #f16000; TEXT-INDENT: 6px; LINE-HEIGHT: 24px; PADDING-TOP: 4px
+}
+TABLE.user1 {
+	COLOR: #ffffff; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+TABLE.user2 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+TD.HomeAreaB_SmallPic {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 150px; PADDING-TOP: 3px
+}
+TABLE.HomeAreaB THEAD TD {
+	BACKGROUND-POSITION: left bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/b_head.gif); COLOR: #ffffff; TEXT-INDENT: 35px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: left
+}
+TABLE.HomeAreaB01 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaB02 TBODY TD {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 6px 2px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/ab.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 25px; LINE-HEIGHT: 18px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.HomeAreaB03 TBODY TD {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 6px 2px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/ab.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 25px; LINE-HEIGHT: 18px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.HomeAreaB04 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaB05 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaB06 TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.HomeAreaB TFOOT TD {
+	LINE-HEIGHT: 20px; TEXT-ALIGN: right
+}
+TABLE.userlogin THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/login_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.userlogin TBODY {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 1px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 15px; PADDING-TOP: 3px; TEXT-ALIGN: center
+}
+TABLE.userlogin INPUT.text {
+	MARGIN-TOP: 4px; WIDTH: 80px; LINE-HEIGHT: 15px; PADDING-TOP: 2px
+}
+TABLE.userlogin INPUT.button {
+	MARGIN-TOP: 6px; MARGIN-BOTTOM: 4px
+}
+TABLE.searchsite SELECT {
+	MARGIN-TOP: 5px; FONT-SIZE: 12px; MARGIN-BOTTOM: 5px; WIDTH: 130px; COLOR: #dfdfdf; BACKGROUND-COLOR: #b93c36
+}
+TABLE.searchsite INPUT.text {
+	WIDTH: 130px; LINE-HEIGHT: 18px
+}
+TABLE.searchsite INPUT.button {
+	MARGIN-TOP: 6px; MARGIN-BOTTOM: 4px; LINE-HEIGHT: 18px
+}
+TABLE.search THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/search_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.search TBODY {
+	LINE-HEIGHT: 18px; PADDING-TOP: 5px
+}
+TABLE.searchsite THEAD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/search_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.searchsite TBODY {
+	COLOR: #333333; LINE-HEIGHT: 15px; PADDING-TOP: 3px
+}
+TABLE.vote THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/vote_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.vote TBODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-TOP: 0px
+}
+TABLE.vote INPUT.button {
+	WIDTH: 58px
+}
+TABLE.VoteResult THEAD TD {
+	FONT-WEIGHT: bold; COLOR: #ffff00; TEXT-ALIGN: left
+}
+TABLE.VoteResult TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LINE-HEIGHT: normal; TEXT-ALIGN: left
+}
+TABLE.sitelink THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/website_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.sitelink TBODY {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 5px 7px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/ab.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 22px; LINE-HEIGHT: 20px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.website THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/website_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.website TBODY {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 5px 7px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/ab.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 22px; LINE-HEIGHT: 20px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.modulesearch THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/website_head.gif); COLOR: #ffffff; TEXT-INDENT: 0px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.modulesearch TBODY {
+	TEXT-INDENT: 22px; LINE-HEIGHT: 22px
+}
+TABLE.Feedback INPUT.text {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+TABLE.Feedback SELECT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #b93c36
+}
+TABLE.feedback TEXTAREA {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 464px; COLOR: #ffffff; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 150px; BACKGROUND-COLOR: #b93c36
+}
+TABLE.feedback INPUT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 464px; COLOR: #ffffff; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #b93c36
+}
+TABLE.Feedback INPUT.button {
+	BORDER-RIGHT: #a1a1a1 1px double; BORDER-TOP: #a1a1a1 1px double; FONT-SIZE: 12px; BORDER-LEFT: #a1a1a1 1px double; WIDTH: 60px; COLOR: #ffffff; LINE-HEIGHT: 18px; BORDER-BOTTOM: #a1a1a1 1px double; BACKGROUND-COLOR: #680701
+}
+TABLE.artlist THEAD TD {
+	BACKGROUND-POSITION: left bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/artlist_head.gif); COLOR: #ffffff; TEXT-INDENT: 35px; LINE-HEIGHT: 37px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: left
+}
+TABLE.artList TBODY TD {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 6px 4px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/artlist_body.gif); PADDING-BOTTOM: 0px; TEXT-INDENT: 25px; LINE-HEIGHT: 20px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+TABLE.artlist TFOOT {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #999999; TEXT-ALIGN: right
+}
+TABLE.Comment {
+	
+}
+TABLE.comment TEXTAREA {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; MARGIN-TOP: 4px; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 464px; COLOR: #ffffff; LINE-HEIGHT: 15px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #b93c36
+}
+TABLE.comment .button {
+	BORDER-RIGHT: #a1a1a1 1px double; BORDER-TOP: #a1a1a1 1px double; FONT-SIZE: 12px; BORDER-LEFT: #a1a1a1 1px double; WIDTH: 60px; COLOR: #ffffff; LINE-HEIGHT: 18px; BORDER-BOTTOM: #a1a1a1 1px double; BACKGROUND-COLOR: #680701
+}
+TABLE.PicList THEAD TD {
+	BACKGROUND-POSITION: center bottom; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/head_line.gif); COLOR: #ffffff; LINE-HEIGHT: 30px; BACKGROUND-REPEAT: no-repeat; TEXT-ALIGN: center
+}
+TABLE.PicList TBODY TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; LINE-HEIGHT: 22px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+TABLE.PicList TFOOT TD {
+	BACKGROUND: url(../images/piclist_bg.gif) no-repeat left bottom; PADDING-BOTTOM: 6px; LINE-HEIGHT: 18px; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+TABLE.PageLink THEAD TD {
+	
+}
+TABLE.PageLink TBODY TD {
+	
+}
+TABLE.PageLink TFOOT TD {
+	
+}
