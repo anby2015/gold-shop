@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML><HEAD><TITLE>满宏金店欢迎您！</TITLE>
-<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
 <META content=undefined name=description>
 <META content=满宏金店 金店 榆林金店 name=keywords>
 <META name=searchtitle content=金店>
@@ -23,50 +23,54 @@ type=text/css rel=stylesheet>
         <TBODY>
         <TR>
           <TD width=300 background=index.files/logo.jpg>
-		  <IMG src="index.files/logo.jpg"></TD>
-          <TD align=right width=600></TD></TR></TBODY></TABLE></TD>
-    <TD width=51></TD></TR>
+			<IMG src="index.files/logo.jpg">
+		  </TD>
+          <TD align=right width=600></TD>
+		</TR>
+		</TBODY>
+	  </TABLE>
+	</TD>
+    <TD width=51></TD>
+  </TR>
   <TR>
     <TD background=index.files/user1-left.gif></TD>
-    <TD vAlign=center align=middle width=900 
-    background=index.files/topmenu-bg.gif height=61>
+    <TD vAlign=center align=middle width=900 background=index.files/topmenu-bg.gif height=61>
       <DIV class="top topmenu">
       <TABLE class="top topmenu" cellSpacing=0 cellPadding=0 border=0>
         <TBODY>
-	</TBODY>
-	<?php require("menu.php"); ?>
-	</TABLE>
-      </DIV></TD>
+          <?php require("menu.php"); ?>
+		</TBODY>
+	  </TABLE>
+      </DIV>
+	</TD>
     <TD background=index.files/user1-right.gif></TD></TR>
   <TR>
     <TD background=""></TD>
     <TD width=900 background=index.files/banner-bg.jpg height=200>
-      <TABLE height=200 cellSpacing=0 cellPadding=0 width=900 background="" 
-      border=0>
+      <TABLE height=200 cellSpacing=0 cellPadding=0 width=900 background="" border=0>
         <TBODY>
         <TR>
-          <TD vAlign=center align=middle width=195 
-          background=index.files/user1-bg.gif>
+          <TD vAlign=center align=middle width=195 background=index.files/user1-bg.gif>
             <DIV class="user1 mainmenu">
-            	<TABLE class="user1 mainmenu" cellSpacing=0 cellPadding=0 border=0>
-		<TBODY>
-		<?php require("navigation.php"); ?>
-		</TBODY>
-		</TABLE>
-	    </DIV></TD>
-          <TD vAlign=top align=left width=705 
-          background=index.files/banner-bg.jpg>
-            <TABLE class=banner cellSpacing=0 cellPadding=0 width="100%" 
-            border=0>
+            <TABLE class="user1 mainmenu" cellSpacing=0 cellPadding=0 border=0>
+			<TBODY>
+              <?php require("navigation.php"); ?>
+			</TBODY>
+			</TABLE>
+			</DIV>
+		  </TD>
+          <TD vAlign=top align=left width=705 background=index.files/banner-bg.jpg>
+            <TABLE class=banner cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <TBODY>
+                <TR>
+                  <TD align=middle></TD>
+			    </TR>
+			  </TBODY>
+			</TABLE>
+            <TABLE class="banner userdesign" cellSpacing=0 cellPadding=0 width="100%" border=0>
               <TBODY>
               <TR>
-                <TD align=middle></TD></TR></TBODY></TABLE>
-            <TABLE class="banner userdesign" cellSpacing=0 cellPadding=0 
-            width="100%" border=0>
-              <TBODY>
-              <TR>
-                <TD><object 
-                  classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 
+                <TD><object classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 
                   codebase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0 width=705 height=198 align="right">
                   <param name="_cx" value="18653">
                   <param name="_cy" value="5292">
@@ -90,14 +94,20 @@ type=text/css rel=stylesheet>
                   <param name="ProfileAddress" value="">
                   <param name="ProfilePort" value="0">
                   <param name="AllowNetworking" value="all">
-                  <embed src="index.files/banner.swf" width="705" 
-                  height="198" align="right" 
-                  quality=high 
+                  <embed src="index.files/banner.swf" width="705" height="198" align="right" quality=high 
                   pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" 
                   type="application/x-shockwave-flash"></embed>
                 </object></TD>
-              </TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
-    <TD></TD></TR></TBODY></TABLE>
+              </TR>
+			  </TBODY>
+			</TABLE>
+		  </TD></TR>
+		</TBODY>
+	  </TABLE>
+	</TD>
+    <TD></TD></TR>
+  </TBODY>
+</TABLE>
 <TABLE cellSpacing=0 cellPadding=0 width=1003 border=0>
   <TBODY>
   <TR>
@@ -105,12 +115,12 @@ type=text/css rel=stylesheet>
     <TD width=210></TD>
     <TD width=20></TD>
     <TD width=670></TD>
-    <TD width=51></TD></TR>
+    <TD width=51></TD>
+  </TR>
   <TR>
     <TD width=52 height=450></TD>
     <TD vAlign=top align=middle bgColor=#610600 height=450>
-      <TABLE style="BORDER-COLLAPSE: collapse" borderColor=#a59c7b height="100%" 
-      width=210 border=1>
+      <TABLE style="BORDER-COLLAPSE: collapse" borderColor=#a59c7b height="100%" width=210 border=1>
         <TBODY>
         <TR>
           <TD vAlign=center align=middle height=30></TD></TR>
@@ -124,52 +134,66 @@ type=text/css rel=stylesheet>
                   cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
-                      <TD>会员登录</TD></TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                      <TD>会员登录</TD>
+					</TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
                 <TD height=6></TD></TR>
               <TR>
                 <TD>
                   <DIV class="HomeAreaA HomeAreaA01 userlogin">
-                  <TABLE class="HomeAreaA HomeAreaA01 userlogin" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA01 userlogin" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
-                    <FORM name=form2 
-                    action=index.php?option=com_member&amp;task=login&amp;template=1&amp;menuid=1&amp;module=&amp;sortid=&amp;artid= 
+                    <FORM name=form2 action=index.php?option=com_member&amp;task=login&amp;template=1&amp;menuid=1&amp;module=&amp;sortid=&amp;artid= 
                     method=post>
                     <TR>
-                      <TD>登录名：<INPUT class=text size=12 
-                        name=UserName><BR>密　码：<INPUT class=text type=password 
-                        size=12 name=Code><BR> 
+                      <TD>登录名：<INPUT class=text size=12 name=UserName><BR>
+					      密　码：<INPUT class=text type=password size=12 name=Code><BR> 
                         &nbsp;
                         <input type="submit" name="Submit" value="登录">
                         <input type="submit" name="Submit" value="注册">
                         <BR>
-                        <SPAN 
-                        class=UserItem>忘记密码</SPAN><BR></TD></TR></FORM></TABLE></DIV>
-                  <DIV align=right></DIV></TD></TR>
+                        <SPAN class=UserItem>忘记密码</SPAN><BR>
+					  </TD>
+					</TR>
+					</FORM>
+				  </TABLE>
+				  </DIV>
+                  <DIV align=right></DIV>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR></TABLE>
+                <TD height=6></TD>
+			  </TR>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=194 border=0>
-              <TBODY></TBODY></TABLE>
+              <TBODY></TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=194 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaA HomeAreaA03 website" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA03 website" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
                       <TD>今日金价</TD>
-                    </TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                    </TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR>
+                <TD height=6></TD>
+			  </TR>
               <TR>
                 <TD>
                   <DIV class="HomeAreaA HomeAreaA03 website">
-                  <TABLE class="HomeAreaA HomeAreaA03 website" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA03 website" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
                     <TR>
                       <TD width="100%">&nbsp;</TD>
@@ -186,27 +210,39 @@ type=text/css rel=stylesheet>
                     <TR>
                       <TD width="100%">&nbsp;</TD>
                     </TR>
-                    <TR></TR></TBODY></TABLE></DIV>
-                  <DIV align=right></DIV></TD></TR>
+                    <TR></TR>
+					</TBODY>
+				  </TABLE>
+				  </DIV>
+                  <DIV align=right></DIV>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR></TBODY></TABLE>
+                <TD height=6></TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=194 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaA HomeAreaA04 sitelink" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA04 sitelink" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
-                      <TD>友情链接</TD></TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                      <TD>友情链接</TD>
+					</TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR>
+                <TD height=6></TD>
+			  </TR>
               <TR>
                 <TD>
                   <DIV class="HomeAreaA HomeAreaA04 sitelink">
-                  <TABLE class="HomeAreaA HomeAreaA04 sitelink" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA04 sitelink" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
                     <TR>
                       <TD width="100%">&nbsp;</TD>
@@ -217,31 +253,37 @@ type=text/css rel=stylesheet>
                     <TR>
                       <TD width="100%">&nbsp;</TD>
                     </TR>
-                    <TR></TR></TBODY></TABLE></DIV>
-                  <DIV align=right></DIV></TD></TR>
+                    <TR></TR></TBODY>
+				  </TABLE>
+				  </DIV>
+                  <DIV align=right></DIV>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR></TBODY></TABLE>
+                <TD height=6></TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=194 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaA HomeAreaA05 vote" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaA HomeAreaA05 vote" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
                       <TD>网站调查</TD></TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
                 <TD height=6>收藏黄金</TD>
               </TR>
               <TR>
                 <TD>
                   <DIV class="HomeAreaA HomeAreaA05 vote">
-                  <TABLE class="HomeAreaA HomeAreaA05 vote" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
-                    <FORM name=votefrom1 
-                    action=index.php?option=com_vote&amp;menuid=1&amp;voteid=1 
-                    method=post>
+                  <TABLE class="HomeAreaA HomeAreaA05 vote" cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <FORM name=votefrom1 action=index.php?option=com_vote&amp;menuid=1&amp;voteid=1 method=post>
                     <TBODY>
                     <TR>
                       <TD>
@@ -268,208 +310,192 @@ type=text/css rel=stylesheet>
                       <TD align=left><INPUT type=radio value=4 
                         name=option1>
                         </TD>
-                    </TR></TBODY>
+                    </TR>
+					</TBODY>
                     <TFOOT>
                     <TR>
-                      <TD vAlign=center align=middle colSpan=2 height=36><INPUT class=button type=submit value=投票 name=Submit>&nbsp;<INPUT class=button type=reset value=重置 name=reset>&nbsp;<INPUT class=button onClick="javascript:location.replace('index.php?option=com_vote&amp;menuid=1&amp;voteid=1');" type=button value=查看 name=view><INPUT 
-                        type=hidden value=option1 name=optname> 
-                    <BR></TD></TR></TFOOT></FORM>
-                  </TABLE></DIV>
-                  <DIV align=right></DIV></TD></TR>
+                      <TD vAlign=center align=middle colSpan=2 height=36>
+					  <INPUT class=button type=submit value=投票 name=Submit>&nbsp;
+					  <INPUT class=button type=reset value=重置 name=reset>&nbsp;
+					  <INPUT class=button onClick="javascript:location.replace('index.php?option=com_vote&amp;menuid=1&amp;voteid=1');" type=button value=查看 name=view>
+					  <INPUT type=hidden value=option1 name=optname><BR>
+					  </TD>
+					</TR>
+					</TFOOT>
+					</FORM>
+                  </TABLE>
+				  </DIV>
+                  <DIV align=right></DIV>
+				</TD>
+			  </TR>
               <TR>
-                <TD height=6></TD></TR></TBODY></TABLE>
+                <TD height=6></TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=194 border=0>
-              <TBODY></TBODY></TABLE></TD></TR>
+              <TBODY></TBODY>
+			</TABLE>
+		  </TD>
+		</TR>
         <TR>
-          <TD vAlign=center align=middle background="" 
-          height=30></TD></TR></TABLE></TD>
+          <TD vAlign=center align=middle background="" height=30></TD>
+		</TR>
+	  </TABLE>
+	</TD>
     <TD></TD>
-    <TD vAlign=top align=left width=670 background="" 
-    bgColor=#7f0b04 height=450>
-      <TABLE style="BORDER-COLLAPSE: collapse" borderColor=#a59c7b height="100%" 
-      width=670 background="" border=1>
+    <TD vAlign=top align=left width=670 background="" bgColor=#7f0b04 height=450>
+      <TABLE style="BORDER-COLLAPSE: collapse" borderColor=#a59c7b height="100%" width=670 background="" border=1>
         <TBODY>
         <TR>
           <TD background="" height=30>
-            <TABLE class="user6 userdesign" cellSpacing=0 cellPadding=0 
-            width="100%" border=0>
+            <TABLE class="user6 userdesign" cellSpacing=0 cellPadding=0 width="100%" border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <MARQUEE>满宏金店欢迎您的到来，祝您愉快！联系电话：0912-3467889；手机：13992252518，13772395923
-                </MARQUEE></TD></TR></TBODY></TABLE></TD></TR>
+                  <MARQUEE>满宏金店欢迎您的到来，祝您愉快！联系电话：0912-3467889；手机：13992252518，13772395923</MARQUEE>
+				</TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
+		   </TD>
+		</TR>
         <TR>
           <TD vAlign=top align=middle background="">
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
               <TBODY>
               <TR>
-                <TD vAlign=top></TR></TBODY></TABLE>
+                <TD vAlign=top>
+			  </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
-                      <TD>金店概况</TD>
-                    </TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                      <TD>金店动态</TD>
+                    </TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
-                    <TR>
-                      <TD width="33%"></TD>
-                      <TD width="33%"></TD>
-                      <TD width="33%"></TD></TR>
-                    <TR>
-                      <TD colspan="3" align=middle><div align="left">满宏金店成立于1994年，坐落于陕北的经济重镇--镇川，是以面向西北部，<br>
-                          服务当地老百姓，并向各大销售商提供优质原材料及成品为主要营销渠道的<br>
-                          一家老百姓信得过的典型民营企业。
-                        </div>
-                        <p align="left">多年来，金店积累了大量的生产加工经验，形成了成熟的生产流水作业，有<br>
-                          一支
-                            生产加工过硬的团队，使传统加工行业发生了质的飞跃，在工艺上有自<br>
-                            己的产品特色，并以向客户承诺
-                            “凡在本金店购买的产品，提供终生质量保<br>
-                            证”在西北地区赢得了客户的信赖。</p>
-                        <p align="left"> 满宏金店主要的产品有：黄金首饰，纯银车花手镯，中外老银元，老元宝、<br>
-                          十不足，及纯银各类制品。</p>
-                        <p align="left">满宏金店的发展离不开您的支持，欢迎订购选购各类产品，我们将保证给您提<br>
-                          供令您满意的优质服务！</p></TD>
-                      </TR></TBODY></TABLE>
+					<?php require("jddt.php"); ?>
+					</TBODY>
+				  </TABLE>
                   <DIV align=right>
-                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 
-                  cellPadding=0 border=0>
+                  <TABLE class="HomeAreaB HomeAreaB01" cellSpacing=0 cellPadding=0 border=0>
                     <TFOOT>
                     <TR>
                       <TD><A 
                         href="jdgk.htm">更多...</A></TD>
-                    </TR></TFOOT>
-                    <TBODY></TBODY></TABLE></DIV></TD></TR>
+                    </TR>
+					</TFOOT>
+                    <TBODY></TBODY>
+				  </TABLE>
+				  </DIV>
+				</TD>
+			  </TR>
               <TR>
                 <TD height=25 background="index.files/bline.gif">&nbsp;</TD>
-              </TR></TBODY></TABLE>
+              </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaB HomeAreaB02" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaB HomeAreaB02" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
-                      <TD>项目简介</TD>
-                    </TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                      <TD>新品推荐</TD>
+                    </TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
                 <TD>
                   <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
-                    <TR>
-                      <TD class="HomeAreaB_SmallPic HomeAreaB02_SmallPic"><A 
-                        href="#"><IMG 
-                        src="index.files/115634670381157200.gif" border=0></A> 
-</TD>
-                      <TD vAlign=top>
-                        <TABLE class="HomeAreaB HomeAreaB02" cellSpacing=0 
-                        cellPadding=0 width="100%" border=0>
-                          <TBODY>
-                          <TR>
-                            <TD width="100%">&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD width="100%">&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD width="100%">&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD width="100%">&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD width="100%">&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD>&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD>&nbsp;</TD>
-                          </TR>
-                          <TR>
-                            <TD>&nbsp;</TD>
-                          </TR>
-                          </TBODY></TABLE></TD></TR></TBODY></TABLE>
+		    <?php require("new_goods.php");?>
+		      </TBODY>
+		      </TABLE>
                   <DIV align=right>
-                  <TABLE class="HomeAreaB HomeAreaB02" cellSpacing=0 
-                  cellPadding=0 border=0>
+                  <TABLE class="HomeAreaB HomeAreaB02" cellSpacing=0 cellPadding=0 border=0>
                     <TFOOT>
                     <TR>
                       <TD><a href="jyxm.htm">更多...</a></TD>
-                    </TR></TFOOT>
-                    <TBODY></TBODY></TABLE></DIV></TD></TR>
+                    </TR>
+					</TFOOT>
+                    <TBODY></TBODY>
+				  </TABLE>
+				  </DIV>
+				</TD>
+			  </TR>
               <TR>
                 <TD height=25 background="index.files/bline.gif">&nbsp;</TD>
-              </TR></TBODY></TABLE>
+              </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
-              <TBODY></TBODY></TABLE>
+              <TBODY></TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
               <TBODY>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaB HomeAreaB04" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaB HomeAreaB04" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <THEAD>
                     <TR>
-                      <TD><a href="cpzs.htm">产品浏览</a></TD>
-                    </TR></THEAD>
-                    <TBODY></TBODY></TABLE></TD></TR>
+                      <TD><a href="cpzs.htm">热销产品</a></TD>
+                    </TR>
+					</THEAD>
+                    <TBODY></TBODY>
+				  </TABLE>
+				</TD>
+			  </TR>
               <TR>
                 <TD>
-                  <TABLE class="HomeAreaB HomeAreaB04" cellSpacing=0 
-                  cellPadding=0 width="100%" border=0>
+                  <TABLE class="HomeAreaB HomeAreaB04" cellSpacing=0 cellPadding=0 width="100%" border=0>
                     <TBODY>
-                    <TR>
-                      <TD width="100%">
-                        <MARQUEE id=cool onmouseover=cool.stop() 
-                        onmouseout=cool.start() scrollAmount=4 scrollDelay=80 
-                        width="100%" height=64><IMG 
-                        src="index.files/1.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/2.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/3.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/4.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/5.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/1.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/2.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/3.jpg" width="90" height="120" hspace=0 
-                        border=0>&nbsp;&nbsp; <IMG 
-                        src="index.files/4.jpg" width="90" height="120" hspace=0 
-                        border=0>
-                        </MARQUEE></TD></TR>
-                    <TR></TR></TBODY></TABLE>
-                  <DIV align=right></DIV></TD></TR>
+			<?php require("hot_sale.php");?>
+					</TBODY>
+				   </TABLE>
+                  <DIV align=right></DIV>
+				</TD>
+			   </TR>
               <TR>
                 <TD height=25>&nbsp;</TD>
-              </TR></TBODY></TABLE>
+              </TR>
+			  </TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
-              <TBODY></TBODY></TABLE>
+              <TBODY></TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
-              <TBODY></TBODY></TABLE>
+              <TBODY></TBODY>
+			</TABLE>
             <TABLE cellSpacing=0 cellPadding=0 width=634 border=0>
               <TBODY>
               <TR>
-                <TD vAlign=top></TR></TBODY></TABLE></TD></TR>
+                <TD vAlign=top>
+			  </TR>
+			  </TBODY>
+			</TABLE></TD></TR>
         <TR>
-          <TD background="" 
-      height=30></TD></TR></TBODY></TABLE></TD>
+          <TD background="" height=30></TD>
+		</TR>
+		</TBODY>
+	  </TABLE></TD>
     <TD></TD></TR>
   <TR>
     <TD width=52 background="" height=25></TD>
@@ -478,8 +504,7 @@ type=text/css rel=stylesheet>
     <TD width=670 background="" height=25></TD>
     <TD width=51 background="" height=25></TD>
   </TR></TBODY></TABLE>
-<TABLE height=107 cellSpacing=0 cellPadding=0 width=1003 
-background=index.files/copyright-bg.gif border=0>
+<TABLE height=107 cellSpacing=0 cellPadding=0 width=1003 background=index.files/copyright-bg.gif border=0>
   <TBODY>
   <TR>
     <TD width=52 background="" height=1></TD>
@@ -487,22 +512,27 @@ background=index.files/copyright-bg.gif border=0>
     <TD width=51 background="" height=1></TD></TR>
   <TR>
     <TD width=52></TD>
-    <TD vAlign=top align=middle width=900 
-      background=""><TABLE height="100%" cellSpacing=0 
-      cellPadding=0 width=900 border=0>
+    <TD vAlign=top align=middle width=900 background="">
+	<TABLE height="100%" cellSpacing=0 cellPadding=0 width=900 border=0>
         <TBODY>
         <TR>
           <TD align=middle background=index.files/user2-bg.gif height=49>
             <DIV class="user2 bottommenu">
-            <TABLE class="user2 bottommenu" cellSpacing=0 cellPadding=0 
-border=0>
+            <TABLE class="user2 bottommenu" cellSpacing=0 cellPadding=0 border=0>
               <TBODY>
               <TR>
                 <TD align=middle><a href="#">员工登陆</a></TD>
                 <TD align=middle width=35>|</TD>
-                <TD align=middle><A 
-                  href="#">联系我们</A></TD>
-                <TD align=middle width=0></TD></TR></TBODY></TABLE></DIV></TD></TR>
+                <TD align=middle>
+					<A href="#">联系我们</A>
+				</TD>
+                <TD align=middle width=0></TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
+			</DIV>
+		   </TD>
+		</TR>
         <TR>
           <TD align=middle background="">
             <TABLE cellSpacing=2 cellPadding=3 width="100%" border=0>
@@ -513,9 +543,25 @@ border=0>
               <TR>
                 <TD>
                   <P align=center>版权所有：<a href="index.htm">满宏金店</a>　 地址：榆林市镇川镇北大街37号　 2008年元月<BR>
-                  </P></TD></TR>
+                  </P>
+				</TD>
+			  </TR>
               <TR>
                 <TD>
-                  <P align=center>&nbsp;</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
-    <TD width=51 
-background=""></TD></TR></TBODY></TABLE></CENTER></BODY></HTML>
+                  <P align=center>&nbsp;</P>
+				</TD>
+			  </TR>
+			  </TBODY>
+			</TABLE>
+		   </TD>
+		</TR>
+		</TBODY>
+	</TABLE>
+	</TD>
+    <TD width=51 background=""></TD>
+	</TR>
+	</TBODY>
+	</TABLE>
+	</CENTER>
+</BODY>
+</HTML>
