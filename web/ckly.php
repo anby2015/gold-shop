@@ -369,7 +369,7 @@ type=text/css rel=stylesheet>
 			  </TR>
 			  </TBODY>
 			</TABLE>
-			<?php require("add_message.php"); ?>
+			<?php require("list.php"); ?>
 		</TD></TR>
         <TR>
           <TD background="" height=30></TD>
