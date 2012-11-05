@@ -11,7 +11,37 @@ type=text/css rel=stylesheet>
 }
 </STYLE>
 
-<META content="MSHTML 6.00.2900.3243" name=GENERATOR></HEAD>
+<META content="MSHTML 6.00.2900.3243" name=GENERATOR>
+<SCRIPT language=javascript>
+function CheckPost()
+{
+	if (myform.name.value=="")
+	{
+		alert("请填写您的姓名");
+		myform.name.focus();
+		return false;
+	}
+	if (myform.phone.value=="")
+	{
+		alert("请填写您的电话号码");
+		myform.phone.focus();
+		return false;
+	}
+	if (myform.qq.value=="")
+	{
+		alert("请输入您的qq号码");
+		myform.qq.focus();
+		return false;
+	}
+	if (myform.content.value=="")
+	{
+		alert("请输入留言内容");
+		myform.content.focus();
+		return false;
+	}
+}
+</SCRIPT>
+</HEAD>
 <BODY background=index.files/bg_index.gif>
 <CENTER>
 <TABLE cellSpacing=0 cellPadding=0 width=1003 border=0>
@@ -369,7 +399,48 @@ type=text/css rel=stylesheet>
 			  </TR>
 			  </TBODY>
 			</TABLE>
-			<?php require("add_message.php"); ?>
+<form method="post" action="add_message.php" name="myform" onsubmit="return CheckPost()";>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="10%" align="right">姓&nbsp名：</td>
+                  <td colspan="2"><label>
+                    <input name="name" type="text" class="text" id="name" size="18" maxlength="12">
+                  </label></td>
+                  </tr>
+                <tr>
+                  <td align="right">电&nbsp话：</td>
+                  <td colspan="2"><label>
+                    <input name="phone" type="text" class="text" id="phone" size="18" maxlength="12">
+                  </label></td>
+                  </tr>
+                <tr>
+                  <td align="right">Q&nbsp;Q：</td>
+                  <td colspan="2"><label>
+                    <input name="qq" type="text" class="text" id="qq" size="18" maxlength="12">
+                  </label></td>
+                </tr>
+                <tr>
+                  <td align="right" valign="top">内&nbsp容：</td>
+                  <td colspan="2"><label>
+                    <textarea name="content" cols="70" rows="10" class="text" id="content"></textarea>
+                  </label></td>
+                  </tr>
+		  <tr>
+                  <td align="right">验证码：</td>
+                  <td colspan="2"><label>
+                    <input name="code" type="text" class="text" size="4" maxlength="4">
+		    <img id="code" src="create_code.php" title="看不清楚，换一张" style="cursor: pointer; vertical-align:middle;" onClick="this.src=this.src+'?'+Math.random();"/>
+                  </label></td>
+                  </tr>
+                <tr>
+                  <td><label></label></td>
+                  <td><input name="submit" type="submit" class="button" value="发布留言"></td>
+                  <td width="78%"><label>
+                    <input name="Submit2" type="reset" class="button" value="取消">
+                  </label></td>
+                </tr>
+              </table>
+</form>
 		</TD></TR>
         <TR>
           <TD background="" height=30></TD>
