@@ -1,0 +1,1 @@
+tools: django and postgresql
